@@ -1,5 +1,5 @@
 h1, h2 {
-  font-family: "American Typewriter";
+  font-family: "DK Lemon Yellow Sun";
   color: #F5A43D
 
 }
@@ -9,7 +9,7 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 7em;
 }
 
 h2 {
@@ -18,4 +18,7 @@ h2 {
 
 body {
   background-color: #F5F1A1;
+}
+body {
+background-image:
 }
