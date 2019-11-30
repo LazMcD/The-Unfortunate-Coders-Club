@@ -1,7 +1,6 @@
 h1, h2 {
   font-family: "DK Lemon Yellow Sun";
   color: #F5A43D
-
 }
 
 h1, h2 {
@@ -17,7 +16,14 @@ h2 {
 }
 
 body {
-  background-color: #F5F1A1;
+  background-color: #ee82ee;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 body {
 background-image:
