@@ -14,7 +14,9 @@ h2 {
 body {
   background-color: #ee82ee;
 }
-
+nav {
+  background-color: #ee82ee;
+}
 img {
   display: block;
   margin-left: auto;
@@ -23,8 +25,8 @@ img {
 }
 
 p {
-font-family: 'Indie Flower', cursive;
-font-size: 2em;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2em;
 }
 
 a {
