@@ -27,3 +27,16 @@ p {
   font-family: 'Indie Flower', cursive;
   font-size: 2em;
 }
+
+a {
+  font-family: 'Indie Flower', cursive;
+  color: #ffad33
+}
+
+ol {
+  font-family: 'Indie Flower', cursive
+}
+
+li {
+  font-size: 1.5em;
+}
