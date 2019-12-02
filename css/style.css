@@ -45,10 +45,20 @@ navbar-custom{
   background-color: #ffffcc;
 }
 
-button-outline-custom{
-}
 h3 {
   font-family: 'Indie Flower', cursive;
-  font-size: 3em
-  color: #b35900
+  font-size: 3em;
+  color: #b35900;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5em;
+  color: #ffad33;
+  text-align: center
+}
+
+button-outline-custom {
+  
 }
