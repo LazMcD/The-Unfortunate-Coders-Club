@@ -34,7 +34,7 @@ a {
 }
 
 ol {
-  font-family: 'Indie Flower', cursive
+  font-family: 'Indie Flower', cursive;
 }
 
 li {
@@ -46,5 +46,9 @@ navbar-custom{
 }
 
 button-outline-custom{
-
+}
+h3 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 3em
+  color: #b35900
 }
