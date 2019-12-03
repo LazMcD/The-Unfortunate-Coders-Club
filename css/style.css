@@ -70,5 +70,12 @@ justify-content; space-evenly;
 }
 label {
   width: 40%;
-margin: 10vh 10vw;
+  margin: 10vh 10vw;
+}
+
+placeholder {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
