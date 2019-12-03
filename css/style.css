@@ -40,7 +40,10 @@ ol {
 li {
   font-size: 1.5em;
 }
-
+li {
+  display: flex;
+justify-content: space-evenly;
+}
 navbar-custom{
   background-color: #ffffcc;
 }
@@ -60,5 +63,12 @@ h4 {
 }
 
 button-outline-custom {
-  
+
+}
+textarea {
+justify-content; space-evenly;
+}
+label {
+  width: 40%;
+margin: 10vh 10vw;
 }
