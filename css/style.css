@@ -20,7 +20,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 37%;
+  width: 20%%;
 }
 
 p {
@@ -79,4 +79,9 @@ placeholder {
   border: 15px solid green;
   padding: 50px;
   margin: 20px;
+}
+
+carouselExampleControls {
+  width:640px;
+  height:360px;
 }
