@@ -80,3 +80,8 @@ placeholder {
   padding: 50px;
   margin: 20px;
 }
+
+carouselExampleControls {
+  width:640px;
+  height:360px;
+}
